@@ -1,16 +1,18 @@
-## Hello there 👋
+<h1>Hi, I'm Grace👋<br/>
 
-<!--
-**gtesterman/gtesterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📄 Certifications:</h2>
 
-Here are some ideas to get you started:
+- [CompTIA Security+](https://www.credly.com/badges/45ed0f44-85f7-4ca2-9904-5b87d645c16a/public_url)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Windows Server</b>
+  - [Windows System Administration Lab](https://gracetesterman.tech/projects)
+- <b>Wireshark</b>
+  - [Malicious Link Malware Analysis](https://gracetesterman.tech/download-from-fake-software-site)
+
+<h2>🌐 Where to Find Me:</h2>
+
+- [LinkedIn](https://www.linkedin.com/in/grace-testerman-2082a2239/)
+- [My Website](https://gracetesterman.tech/)
+
