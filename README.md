@@ -7,7 +7,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Windows Server</b>
-  - [Windows System Administration Lab](https://gracetesterman.tech/projects)
+  - [Windows Server 2025 Home Lab with Active Directory](https://github.com/gtesterman/WindowsServerHomeLab)
 - <b>Wireshark</b>
   - [Malicious Link Malware Analysis](https://gracetesterman.tech/download-from-fake-software-site)
 
