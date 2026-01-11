@@ -12,7 +12,7 @@ I am a cybersecurity analyst and IT specialist who is continuously learning. Fue
 <h2>👩‍💻 Currently Working On:</h2>
 
 - [SOC Level 1 Roadmap by TryHackMe](https://github.com/gtesterman/SOC_Level_1_Roadmap)
-- CompTIA CySA+
+- [CompTIA CySA+](https://github.com/gtesterman/CompTIA_Cybersecurity_Analyst)
 <br/>
 
 <h2>🖥️ Cybersecurity Projects:</h2>
