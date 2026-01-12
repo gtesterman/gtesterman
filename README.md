@@ -1,4 +1,4 @@
-<h1>Hi, I'm Grace👋</h1>
+<h1>Hello👋</h1>
 I am a cybersecurity analyst and IT specialist who is continuously learning. Fueled with a coffee addiction and a curiosity in anything cyber, I document my notes and findings here. Feel free to connect with me and browse my projects!  
 <br/>
 <br/>
