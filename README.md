@@ -6,13 +6,13 @@ I am a cybersecurity analyst and IT specialist who is continuously learning. Fue
 <h2>📄 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/45ed0f44-85f7-4ca2-9904-5b87d645c16a/public_url)
+- [CompTIA CySA+](https://www.credly.com/badges/3d75d56b-3c4d-4b77-b36f-a9d80de4e933/public_url)
 <br/>
 
 
 <h2>👩‍💻 Currently Working On:</h2>
 
 - [SOC Level 1 Roadmap by TryHackMe](https://github.com/gtesterman/SOC_Level_1_Roadmap)
-- [CompTIA CySA+](https://github.com/gtesterman/CompTIA_Cybersecurity_Analyst)
 <br/>
 
 <h2>🖥️ Cybersecurity Projects:</h2>
