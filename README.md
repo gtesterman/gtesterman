@@ -17,6 +17,8 @@ I am a cybersecurity analyst and IT specialist who is continuously learning. Fue
 
 <h2>🖥️ Cybersecurity Projects:</h2>
 
+- <b>Vulnerability Management</b>
+  - [Vulnerability Management with Tenable Nessus](https://github.com/gtesterman/VulnerabilityManagementWithTenable/tree/main)
 - <b>Windows Server</b>
   - [Windows Server 2025 Home Lab with Active Directory](https://github.com/gtesterman/WindowsServerHomeLab)
 - <b>Wireshark</b>
